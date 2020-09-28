@@ -24,3 +24,8 @@ doc/api/
 .flutter-plugins-dependencies
 
 .DS_STORE
+
+/* Firebase */
+
+google-services.json
+GoogleService-Info.plist
